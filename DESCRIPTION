@@ -1,0 +1,17 @@
+Package: csCIBERSORTx
+Type: Package
+Title: The estimation of the abundances of member cell types
+Version: 0.1.0
+Authors@R: 
+    person(given = "DoubleHelix",
+           family = "MedBioInfoCloud",
+           role = c("aut", "cre"),
+           email = "bioinfocloud@aliyun.com")
+Maintainer: The package maintainer <bioinfocloud@aliyun.com>
+Description: CIBERSORTx is an analytical tool from the Alizadeh Lab and Newman Lab to impute gene expression profiles and provide an estimation of the abundances of member cell types in a mixed cell population, using gene expression data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
+Depends: 
+    R (>= 3.6)
